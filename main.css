@@ -1,0 +1,45 @@
+body{
+    background-color: #f8fcfb;
+    margin:0;
+    padding:0;
+}
+.info{
+    height: 250px;
+    background-color: #aab7c2;
+}
+#iconArea{
+    width: 50%;
+}
+#icon{
+    width: 170px;
+    height: 170px;
+    text-align: center;
+}
+#list{
+    text-align: center;
+    width: 50%; 
+}
+.words{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.para{
+    width: 50%;
+}
+.footer{
+    height: 200px;
+    background-color: #aab7c2;
+}
+.contact, .online, .visit{
+    text-align: left;
+    width: 33.3%;
+    padding-left: 100px; 
+}
+table{
+    width: 100%
+}
